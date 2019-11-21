@@ -1,5 +1,6 @@
 [Free Code Camp: Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 --------------
+![Actions](https://github.com/benweese/FCC-Portfolio/workflows/Jekyll%20site%20CI/badge.svg) ![GitHub](https://img.shields.io/github/license/benweese/FCC-Portfolio.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/FCC-Portfolio.svg)
 
 This is Free Code Camp's Build a Personal Portfolio Webpage. This meets the minimum requirements of the user stories below, however this is not build up enough to be a portfolio page. You can find this at [BenWeese.com](https://www.benweese.com) or at [BenWeese.dev](https://www.benweese.dev).
 
